@@ -36,5 +36,6 @@ public class Program2_14
 //outputs
 /*
  * Random phone number: 425-510-8224
- * Random phone number: 031-680-5106
+ * Random phone number: 374-680-7453
+
  */
